@@ -57,6 +57,6 @@ try{
 <div style="margin-top:33%; clear:all; margin-bottom:2%">
 <hr width="80%">
 <div>
-<span style="float:right; margin-right:10%; font-family: 'Poiret One', cursive;">&copy 2014<span> 
+<span style="float:right; margin-right:10%; font-family: 'Poiret One', cursive;">&copy <?php echo date('Y');?><span> 
 </body>
 </html>
