@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'ogilvyone';
-$user = 'sysadmin';
-$pass = 'syspassword32';
+$dbname = 'yourdbname';
+$user = 'yourusername';
+$pass = 'yourpassword';
 ?>
