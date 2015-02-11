@@ -1,0 +1,58 @@
+body{
+
+}
+
+.body{
+	background-color:#fff;
+	margin-left:10%;
+	margin-right:10%;
+	font-family: 'Poiret One', cursive;
+	font-size:18px;
+}
+
+.header{
+	margin-left:10%;
+	margin-right:10%;
+	height:20%;
+	background-color:#42C0FB;
+	font-size:30px;	
+	font-family: 'Poiret One', cursive;
+	font-weight:bold;
+	box-shadow:8px 8px 8px 0px #CCCCFF;	
+}
+
+.bizniz{
+	width:73%;
+	height:auto;
+	margin-top:5%;
+	float:left;
+}
+
+.pic{
+	width:25%;
+	float:right;
+	margin-top:5%;
+}
+
+.isset{
+	background-color:#42C0FB;
+	width:20%;
+	height:7%;
+	font-family: 'Play', sans-serif;
+	font-size:18px;
+}
+
+.anka{
+	background-color:#42C0FB;
+	width:20%;
+	height:5%;
+	font-family: 'Play', sans-serif;
+	font-size:18px;
+	text-align:center;
+	text-decoration:none;
+	color:#000;
+	
+}
+
+
+a.hover{ color:#ed1c24 !important;}
