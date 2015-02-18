@@ -78,7 +78,7 @@ else{
 	if(isset($_POST['reset'])){
 		try {
 
-				$sql = $dbh->prepare('UPDATE presenters SET presented=0 WHERE number>1');
+				$sql = $dbh->prepare('UPDATE presenters SET presented=0 WHERE number>0');
 				$sql->execute();
 
 			if($sql){
