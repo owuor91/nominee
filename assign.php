@@ -12,7 +12,7 @@ include("connection.php");
 
 <div class="header"> 
 
- <p style="margin-left:10%;  padding-top:4%; font-size:48px;"><a href="index.php" style="text-decoration:none; color:#000000; "><strong><!--CONTAGIOUS--> 
+ <p style="margin-left:10%;  padding-top:4%; font-size:48px;"><a href="index.php" style="text-decoration:none; color:#000000; "><strong>CONTAGIOUS
  <span style="font-size:24px; font-family: 'Play', sans-serif;">NOMINEE</span></strong></a></p>
 
 </div>
@@ -55,7 +55,7 @@ try{
 </div>
 <br><br><br>
 <div style="margin-top:33%; clear:all; margin-bottom:2%">
-<hr width="80%">
+<hr width="90%">
 <div>
 <span style="float:right; margin-right:10%; font-family: 'Poiret One', cursive;">&copy <?php echo date('Y');?><span> 
 </body>

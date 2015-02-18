@@ -4,15 +4,15 @@ body{
 
 .body{
 	background-color:#fff;
-	margin-left:10%;
-	margin-right:10%;
+	margin-left:5%;
+	margin-right:5%;
 	font-family: 'Poiret One', cursive;
 	font-size:18px;
 }
 
 .header{
-	margin-left:10%;
-	margin-right:10%;
+	margin-left:5%;
+	margin-right:5%;
 	height:20%;
 	background-color:#42C0FB;
 	font-size:30px;	

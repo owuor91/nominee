@@ -1,6 +1,6 @@
 <?php
-$host = 'YOUR_HOST';
-$dbname = 'YOUR_DBNAME';
-$user = 'YOUR_USERNAME';
-$pass = 'YOUR_PASSWORD';
+$host = 'localhost';
+$dbname = 'ogilvyone';
+$user = 'sysadmin';
+$pass = 'syspassword32';
 ?>
